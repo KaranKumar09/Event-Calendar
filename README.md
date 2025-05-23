@@ -2,6 +2,8 @@
 
 **Event-Calendar** is a modern, responsive web application built using **React**. It allows users to explore, plan, and manage events with ease. The project is deployed as a static site using **Render**, ensuring fast and reliable performance.
 
+## Website Link: https://event-calendar-xleu.onrender.com/
+
 ## 🚀 Features
 
 - ⚛️ React Frontend: Built with Create React App for fast development.
