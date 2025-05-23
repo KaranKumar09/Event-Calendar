@@ -1,3 +1,18 @@
+# 🎉 Event-Calendar – React-Based Event Management Web App
+
+**Event-Calendar** is a modern, responsive web application built using **React**. It allows users to explore, plan, and manage events with ease. The project is deployed as a static site using **Render**, ensuring fast and reliable performance.
+
+## 🚀 Features
+
+- ⚛️ React Frontend: Built with Create React App for fast development.
+- 📱 Responsive Design: Works seamlessly across desktops, tablets, and smartphones.
+- 🧩 Reusable Components: Modular structure to support scalability and maintenance.
+- 🚀 Fast Static Deployment: Hosted on [Render](https://render.com) as a static site.
+- 🔄 Auto Deployment: Git integration ensures automatic redeploy on every commit to `main`.
+- 📦 Clean Code Structure: Organized folder layout and efficient file naming.
+- 🌐 SEO-Ready: Optimized for visibility in search engines.
+- 🎯 User-Friendly Interface: Intuitive UI for better user experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
